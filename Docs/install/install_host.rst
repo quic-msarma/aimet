@@ -99,7 +99,7 @@ The released AIMET GPU packages have been tested with the following CUDA toolkit
 - PyTorch 2.1 GPU variant: `CUDA Toolkit 12.1.0 <https://developer.nvidia.com/cuda-12-1-0-download-archive>`_
 - PyTorch 1.13 GPU variant: `CUDA Toolkit 11.7.1 <https://developer.nvidia.com/cuda-11-7-1-download-archive>`_
 - TensorFlow GPU variant: `CUDA Toolkit 11.8.0 <https://developer.nvidia.com/cuda-11-8-0-download-archive>`_
-- ONNX GPU variant: `CUDA Toolkit 11.7.1 <https://developer.nvidia.com/cuda-11-7-1-download-archive>`_
+- ONNX GPU variant: `CUDA Toolkit 11.8.0 <https://developer.nvidia.com/cuda-11-8-0-download-archive>`_
 
 2.1 Visit the CUDA Toolkit link above for the verison corresponding to your AIMET GPU package and download the tested version of the CUDA toolkit for your environment.
 
