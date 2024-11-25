@@ -58,13 +58,6 @@ Use one of the following commands to install AIMET based on your choice of frame
 
             python3 -m pip install |download_url|\ |version|/aimet_torch-\ |version|.cpu\ |whl_suffix| -f |torch_pkg_url|
 
-        **Pytorch 1.13**
-
-        with CUDA 11.x:
-
-        .. parsed-literal::
-
-            python3 -m pip install |download_url|\ |version|/aimet_torch-\ |version|.cu117\ |whl_suffix| -f |torch_pkg_url|
 
     .. tab-item:: TensorFlow
         :sync: tf
