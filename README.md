@@ -40,7 +40,7 @@ The AIMET PyTorch GPU PyPI packages are available for environments that meet the
 
 * 64-bit Intel x86-compatible processor
 * Linux Ubuntu 22.04 LTS [Python 3.10] or Linux Ubuntu 20.04 LTS [Python 3.8]
-* Torch 1.13+cu117
+* Torch 2.1.2+cu121
 
 #### Installation
 ```

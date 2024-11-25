@@ -84,9 +84,6 @@ Choose a variant (a combination of framework and runtime environment) from the f
    * - PyTorch 2.1
      - CPU
      - `torch-cpu`
-   * - PyTorch 1.13
-     - GPU
-     - `torch-gpu-pt113`
    * - TensorFlow
      - GPU
      - `tf-gpu`
